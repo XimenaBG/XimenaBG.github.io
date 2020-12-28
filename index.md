@@ -1,11 +1,13 @@
-## Portfolio
+## About me
+
+*Welcome to my page!*
+My name is Ximena and I am from Colombia. 
+I am a mechanical engineer and recently I finishedd my M.Sc. in mechanical engineering. 
+During the last two years I have been learning about machining processes and metallic materials.
 
 ---
 
-### About me
-
-[Welcome to my page!](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## Portfolio
 
 ---
 
