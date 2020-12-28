@@ -2,9 +2,9 @@ title: Ximena Blum Garcia  # your name (or website title) here
 logo: "/images/myAvatar.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Welcome to my webpage! I am a mechanical engineer interested in the study of materials and aircrafts.
-  To know more about my studies and work experience visit my profile in LinkedIn:
   <br><br>
+  To know more about my studies and work experience 
   <a href="https://www.linkedin.com/in/ximenablumgarcia/">View My LinkedIn Profile</a> 
-  <br><br>
+ 
 theme: jekyll-theme-minimal
 
