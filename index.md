@@ -2,6 +2,13 @@
 
 ---
 
+### About me
+
+[Welcome to my page!](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
 ### Master's Dissertation
 
 [ASTM F75](/sample_page)
@@ -12,12 +19,12 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Conclusions](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Aircrafts
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
