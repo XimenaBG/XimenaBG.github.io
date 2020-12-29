@@ -13,7 +13,7 @@
 
 ---
 
-For more details see [Repositório da Produção Científica e Intelectual da Unicamp](http://repositorio.unicamp.br/handle/REPOSIP/351178).
+For more details see [Repositório da Produção Científica e Intelectual da Unicamp](http://repositorio.unicamp.br/jspui/handle/REPOSIP/351178).
 
 ---
 
