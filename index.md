@@ -12,9 +12,9 @@ During the last two years I have been learning about machining processes and met
 ---
 
 ### [CAD](/sample_page)
-[Wear analysis of coated carbide endmills during the machining of ASTM F75 alloy.](/sample_page)
+[Some](/sample_page)
 <br>
-<img src="images/Aircrafts 1.png?raw=true"/>
+<img src="images/ProjectX.png?raw=true"/>
 ---
 
 ### Aircrafts
