@@ -7,11 +7,32 @@ During the last two years I have been learning about machining processes and met
 
 ---
 
-## Portfolio
+## See my projects!
+
+---
+
+### [CAD](/sample_page)
+[Wear analysis of coated carbide endmills during the machining of ASTM F75 alloy.](/sample_page)
+<br>
+<img src="images/Aircrafts 1.png?raw=true"/>
+---
+
+### Aircrafts
 
 ---
 
 ### Master's Dissertation
+
+---
+
+### Programs
+
+---
+
+### Hobbies
+
+---
+
 
 [Wear analysis of coated carbide endmills during the machining of ASTM F75 alloy.](/sample_page)
 <br>
