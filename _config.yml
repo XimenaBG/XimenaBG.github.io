@@ -3,7 +3,7 @@ title: Ximena Blum Garcia  # your name (or website title) here
 logo: "/images/myAvatar.png?raw=true" # your photo (or logo) here
 
 description: > # your text below (remove <br> elements if you don't need line breaks)
-    <br><br>
+    <br>
     <a href="https://www.linkedin.com/in/ximenablumgarcia/">View My LinkedIn Profile</a> 
  
 theme: jekyll-theme-minimal
