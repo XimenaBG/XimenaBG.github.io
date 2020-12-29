@@ -30,13 +30,6 @@ During the last two years I have been learning about machining processes and met
 ### [Hobbies](/hobbies)
 
 ---
-<br>
-<img src="images/Aircrafts 1.png?raw=true"/>
-<br>
-<img src="images/ProjectX.png?raw=true"/>
----
-
----
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
