@@ -11,25 +11,23 @@ During the last two years I have been learning about machining processes and met
 
 ---
 
-### [CAD](/sample_page)
-[Some](/sample_page)
-<br>
-<img src="images/ProjectX.png?raw=true"/>
----
-
-### Aircrafts
+### [CAD](/CAD)
 
 ---
 
-### Master's Dissertation
+### [Aircrafts](/aircrafts)
 
 ---
 
-### Programs
+### [Master's Dissertation](/masterd)
 
 ---
 
-### Hobbies
+### [Programs](/programs)
+
+---
+
+### [Hobbies](/hobbies)
 
 ---
 
@@ -45,7 +43,8 @@ During the last two years I have been learning about machining processes and met
 - [Project 1 Title](http://example.com/)
 <br>
 <img src="images/Aircrafts 1.png?raw=true"/>
-
+<br>
+<img src="images/ProjectX.png?raw=true"/>
 ---
 
 ### CAD
