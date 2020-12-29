@@ -19,9 +19,15 @@ During the last two years I have been learning about machining processes and met
 
 ---
 
-### Aircrafts
+### Aeronautical Engineering
 
 - [Project 1 Title](http://example.com/)
+<br>
+![Image main division of aeronautical en.](XimenaBG.github.io/images/Aircrafts 1.png)
+---
+
+### CAD
+
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
