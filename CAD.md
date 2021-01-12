@@ -1,4 +1,4 @@
-## Chess table
+## Chess: board game
 
 <img src="images/table_6.JPG?raw=true"/>
 
