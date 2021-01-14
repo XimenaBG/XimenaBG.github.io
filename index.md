@@ -22,15 +22,5 @@ During the last two years I have been learning about machining processes and met
 ### [Master's Dissertation](/masterd)
 
 ---
-
-### [Programs](/programs)
-
----
-
-### [Hobbies](/hobbies)
-
----
-
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
