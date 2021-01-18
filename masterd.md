@@ -6,19 +6,4 @@ Cobalt chromium alloys were first used in the biomedical industry in the mid-193
 
 ---
 
-[Machining](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[ASTM F75](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Conclusions](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
 For more details see [Repositório da Produção Científica e Intelectual da Unicamp](http://repositorio.unicamp.br/jspui/handle/REPOSIP/351178).
-
-```
