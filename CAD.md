@@ -10,5 +10,10 @@ You can find the technical designs used for this project in: [Titans of CNC Acad
 
 <img src="images/table_1.jpg?raw=true"/>
 
+### Chessmen:
+
+<img src="images/ajedrez_1.jpg?raw=true"/>
+<img src="images/ajedrez_2.jpg?raw=true"/>
+
 
 
