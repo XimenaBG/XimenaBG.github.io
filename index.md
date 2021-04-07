@@ -1,4 +1,3 @@
----
 ## *Welcome to my page!*
 
 My name is Ximena and I am from Colombia. 
