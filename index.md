@@ -12,12 +12,8 @@ I also have experience as a junior maintenance engineer, I worked in the mechani
 
 ## My Interests
 
----
-
 The purpose of this site is to share with more people my knowledge and my interests, here I am going to talk about the results of my master's dissertation, I will published some parts drew using Solidworks and something related with statistics.
 Nowadays I start to learn about the Finite Element Method and I have found really interesting all the concepts that support the simulations that you can develop using the method.
-
----
 
 ---
 
