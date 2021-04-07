@@ -19,7 +19,6 @@ Nowadays I start to learn about the Finite Element Method and I have found reall
 
 ## Projects
 
----
 
 ### [CAD](/CAD)
 
