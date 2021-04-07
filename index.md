@@ -1,3 +1,4 @@
+---
 ## *Welcome to my page!*
 
 My name is Ximena and I am from Colombia. 
@@ -21,8 +22,6 @@ Nowadays I start to learn about the Finite Element Method and I have found reall
 
 
 ### [CAD](/CAD)
-
----
 
 ### [Master's Dissertation](/masterd)
 
